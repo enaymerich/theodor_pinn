@@ -1,0 +1,1 @@
+best result 8 layers 26 neurons lr=5e-3

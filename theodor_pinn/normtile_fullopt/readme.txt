@@ -1,0 +1,1 @@
+best result 97 neuron 10 layers lr=9.45e-5
